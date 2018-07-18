@@ -1,0 +1,3 @@
+/home/hunter/Practies/Task_2_358/build/CMakeFiles/edit_cache.dir
+/home/hunter/Practies/Task_2_358/build/CMakeFiles/rebuild_cache.dir
+/home/hunter/Practies/Task_2_358/build/CMakeFiles/task.dir
